@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Daniel Gattringer.
+### 👋 Hi, I'm Daniel
 
 - 🔭 I’m currently an AI student at [JKU](https://www.jku.at/en) 
 - ✍️ I write about [Deep Learning and Computer Vision](https://dangattringer.github.io/) on my blog
